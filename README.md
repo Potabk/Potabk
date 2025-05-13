@@ -7,5 +7,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## Hobbies and Interests
-League of Legends, Elden Ring，Sekiro: Shadows Die Twice, welcome to 
+League of Legends, Elden Ring, Sekiro: Shadows Die Twice, welcome to 
 comminicate game and computer Science  technology
